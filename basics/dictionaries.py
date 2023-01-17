@@ -13,4 +13,3 @@ monthConversions = {
     "Sep": "September",
     "Nov": "November",
     "Dec": "December",
-}
